@@ -1,0 +1,16 @@
+.venv/
+.pytest_cache/
+__pycache__/
+*.py[cod]
+dist/
+*.egg-info/
+.ruff_cache/
+
+
+
+/*.patch
+
+# Local tooling and temporary project data
+/.my-tools/
+/.gitexclude_dir/
+/.mypy_cache/
